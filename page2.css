@@ -1,0 +1,10 @@
+.box {
+    background-image: url("https://plus.unsplash.com/premium_photo-1673697239984-b089baf7b6e6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    border: 5px solid black;
+    padding: 5% 10% 5% 5%;
+    padding-left: 10%;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 5%;
+    text-align: center;
+}
